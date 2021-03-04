@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/iDDHsJlBxqgIJ9W3plnxrQOrxRw1R+bf3D0vSIYr4zdBL4SuLOqOMfinFJfLDoAYnjoXX3Fgc8j59Q952U+nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jigna\\Documents\\godotProjects\\pong\\Pong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jigna\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\jigna\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
